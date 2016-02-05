@@ -54,5 +54,6 @@
   <string name="designed_for_cm11">Conçu pour CM11</string>
 
   <string name="menu_item_playstore_themes">Play Store</string>
+  <string name="menu_item_du_certified_themes">100% Compatibles</string>
   <string name="menu_item_restart_systemui">Redémarrer l\'affichage</string>
 </resources>
