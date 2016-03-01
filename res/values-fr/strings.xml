@@ -52,4 +52,5 @@
   <string name="get_more_entry_play_store">Play Store</string>
   <string name="get_more_entry_cm_wiki">Plus d\'infos sur le Wiki de CM</string>
   <string name="designed_for_cm11">Conçu pour CM11</string>
+  <string name="menu_item_restart_systemui">Redémarrer l\'interface</string>
 </resources>
