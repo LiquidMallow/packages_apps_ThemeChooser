@@ -21,6 +21,8 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.content.res.ThemeChangeRequest;
 import android.content.res.ThemeChangeRequest.RequestType;
+import android.content.res.ThemeManager;
+import android.content.res.ThemeManager.ThemeChangeListener;
 import android.database.Cursor;
 import android.graphics.drawable.ClipDrawable;
 import android.graphics.drawable.LayerDrawable;
@@ -56,9 +58,6 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.viewpagerindicator.CirclePageIndicator;
-
-import cyanogenmod.themes.ThemeManager;
-import cyanogenmod.themes.ThemeManager.ThemeChangeListener;
 
 import org.cyanogenmod.theme.util.ChooserDetailScrollView;
 import org.cyanogenmod.theme.util.Utils;
